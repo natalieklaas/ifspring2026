@@ -1,0 +1,100 @@
+html {
+    font-family: "Raleway", sans-serif;
+    font-size: 12pt;
+    margin-left: 10px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 50px;
+    /* outline: 2px solid rgb(0, 0, 0);
+    padding: 10px; */
+}
+
+#label {
+    font-size: 12pt;
+    color: blue;
+    font-weight: normal;
+    text-decoration-line: none;
+    text-decoration-style: none;    
+    font-style: normal;
+    text-transform: none;
+    letter-spacing: 0.02em;
+}
+
+/* font weight */
+#fw1 {
+    font-weight: lighter;
+}
+
+#fw2 {
+    font-weight: normal;
+}
+
+#fw3 {
+    font-weight: bold;
+}
+
+/* font style */
+#fs1 {
+    font-style: italic;
+}
+
+#fs2 {
+    font-style: normal;
+}
+
+#fs3 {
+    font-style: oblique;
+}
+
+/* letter spacing */
+#ls1 {
+    letter-spacing: -0.02em;
+}
+
+#ls2 {
+    letter-spacing: 0em;
+}
+
+#ls3 {
+    letter-spacing: 0.02em;
+}
+
+#ls4 {
+    letter-spacing: 0.06em;
+}
+
+/* text transform */
+#tt1 {
+    text-transform: capitalize;
+}
+
+#tt2 {
+    text-transform: uppercase;
+}
+
+#tt3 {
+    text-transform: lowercase;
+}
+
+/* text decoration */
+#td1 {
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    color: black;
+}
+
+#td2 {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    color: black;
+}
+
+#td3 {
+    text-decoration: none;
+    color: black;
+}
