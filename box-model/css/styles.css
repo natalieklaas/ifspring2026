@@ -1,0 +1,29 @@
+.box-layers {
+    background-color: #eeeeee;
+    padding: 2rem;
+    border-top: 10px solid #dddddd;
+    margin: 2rem 1rem 4rem 1rem;
+}
+
+.h2-wrapper{
+    border: 1px solid black;
+}
+
+.box-sizing-example {
+    background-color: #eeeeee;
+    padding: 2rem;
+    border: 10px solid #dddddd;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .overflow-example {
+    background-color: #eeeeee;
+    padding: 2rem;
+    border: 10px solid #dddddd;
+    width: 50%;
+    box-sizing: border-box;
+    height: 300px;
+    overflow: hidden;
+    overflow: auto;
+  }
