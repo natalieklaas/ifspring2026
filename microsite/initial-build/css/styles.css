@@ -3,8 +3,7 @@ html {
     font-size: 18px;
     line-height: 1.4;
 
-    background-image: url("pics/paper.avif"); /* adjust path if needed */
-    background-size: cover;
+    background-image: url("pics/paper.avif");
     background-position: center;
     background-repeat: no-repeat;
 }
